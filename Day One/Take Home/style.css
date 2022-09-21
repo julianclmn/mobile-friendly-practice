@@ -1,0 +1,34 @@
+body{
+  margin:0;
+  padding:0;
+}
+header{
+  background: rgb(0,212,255);
+  background: linear-gradient(180deg, rgba(0,212,255,1) 0%, rgba(9,102,121,0.9854862119013063) 48%, rgba(0,0,0,1) 100%); 
+
+  height:400px;
+  color:white;
+  text-align:center;
+  padding-top:200px;
+}
+main{
+margin:auto;
+padding:200px;
+}
+#Two{
+  text-align:right;
+}
+h2{
+  color:rgb(20, 88, 88);
+  font-family:"Times New Roman", sans-serif;
+  text-transform:uppercase;
+  letter-spacing:5px;
+
+}
+footer{
+height:50px;
+background-color:rgb(3, 37, 34);
+text-align:center;
+color:white;
+padding-top:50px;
+}
